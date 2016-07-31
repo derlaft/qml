@@ -44,7 +44,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"gopkg.in/qml.v1"
+	"github.com/derlaft/qml"
 )
 
 const doc = `
@@ -166,7 +166,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gopkg.in/qml.v1"
+	"github.com/derlaft/qml"
 )
 
 func init() {

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gopkg.in/qml.v1"
+	"github.com/derlaft/qml"
 )
 
 func init() {
